@@ -38,8 +38,8 @@ deckFromFile() //Retrives a file from HardDrive
 - the test file show end with the _test.go in our case deck_test.go
 - the funcitions I will be testing are
 ```
-TestNewDeck()
-TestToAndFrom() // check if the file is not carshing while the exchange between the HardDrive 
+TestNewDeck(t *testing.T) // *testing.T is pointer test file passed as an argument
+TestToAndFrom(t *testing.T) // check if the file is not carshing while the exchange between the HardDrive 
 ```
 
 *Run Test*
