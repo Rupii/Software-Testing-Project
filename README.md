@@ -5,11 +5,12 @@ Simple Software testing for cards project Go!
 
 # Go! ![Golang](https://intami.pl//wp-content/uploads/sites/3/2016/09/golang-icon.png)
 -------------------------------------
+- Go was designed and developed by Google considering its needs.
 - Go the one of the very few languages which is not written in C.
 - Go is buit to leverage the processing power of all the intel cores.
 - go routines and channels helps achieving the processing speed
 - It is satically typted pure function programming language.
-
+- Go is also consider as a verbose langauage mandating it to write heavy code for simple logic making it easy to understand
 ## Run GO!
 > there are two types of go programs
 > - Exectable (containing main package)
